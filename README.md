@@ -14,3 +14,8 @@ Debug GPU-side errors in Metal | https://developer.apple.com/videos/play/wwdc202
 LearnOpenGL | https://learnopengl.com/PBR/Theory
 Symbolicate Android crash | https://support.unity.com/hc/en-us/articles/115000292166-Symbolicate-Android-crash
 A Survey of Temporal Antialiasing Techniques | https://onlinelibrary.wiley.com/doi/10.1111/cgf.14018
+AO | https://blog.csdn.net/weixin_44683202/article/details/131915142
+HBAO | https://developer.download.nvidia.com/presentations/2008/SIGGRAPH/HBAO_SIG08b.pdf
+Volumetric Fog: Unified compute shader based solution to atmospheric scattering | Ubisoft, SIGGRAPH 2014| https://advances.realtimerendering.com/s2014/wronski/bwronski_volumetric_fog_siggraph2014.pdf
+Optimizing UE5 | https://www.youtube.com/watch?v=dj4kNnj4FAQ
+UE C++ tutorial | https://romeroblueprints.blogspot.com/p/table-of-contents-c.html
