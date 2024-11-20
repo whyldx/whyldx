@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=dj4kNnj4FAQ
 
 UE C++ tutorial
 https://romeroblueprints.blogspot.com/p/table-of-contents-c.html
+
+TBDR
+https://developer.apple.com/videos/play/wwdc2020/10632/
