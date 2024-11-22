@@ -43,3 +43,5 @@ https://romeroblueprints.blogspot.com/p/table-of-contents-c.html
 
 TBDR
 https://developer.apple.com/videos/play/wwdc2020/10632/
+
+deferred shading
